@@ -59,6 +59,13 @@ h2 {
     margin-bottom: 20px;
 }
 
+img {
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-right: 15px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -103,8 +110,6 @@ p {
     border-width: 1px;
     margin-top: 50px;
     margin-bottom: 100px;
-    overflow: auto;
-    line-height: 50px;
 }
 
 body {
@@ -140,7 +145,7 @@ body {
 }
 
 footer {
-    position: relative;
+    position: fixed;
     background-color: #666666;
     bottom: 0px;
     left: 0;
