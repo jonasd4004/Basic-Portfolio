@@ -7,13 +7,13 @@
 
 .bottom-center {
     position: absolute;
-    top: 76%;
+    top: 67%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #4aaaa5;
     color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 7px;
+    padding-bottom: 4px;
     width: 300px;
     
 }
